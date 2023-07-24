@@ -2,7 +2,7 @@
 
 /*********************** PRINT CHAR **********************/
 /**
- * print_char - print chars
+ * print_char - prints chars
  * @types: list a of argument
  * @buffer: buffer array to handle print
  * @flags: determine the active flags
